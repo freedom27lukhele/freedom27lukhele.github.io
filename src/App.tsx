@@ -26,7 +26,7 @@ export default function Page() {
       "please babe",
       ":((((",
       "PRETTY PLEASE",
-      "Estoy muerto",
+      "Please Muntu Wami",
       "No :(",
     ];
 
