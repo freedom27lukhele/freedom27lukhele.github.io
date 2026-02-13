@@ -1,12 +1,5 @@
 # Will you be my valentine?
 
-- Easy to Use. **No Codeing** required. 🎉
-- With **custom subdomain** of your choice (Obviously not claimed by anyone else). 🌍
-- With **custom texts** of your choice. 💬
-- With **custom images** of your choice. 👩‍❤️‍👨
-- With **40 Beautiful** templates to start from. 🤩
-
-
 # Demo
 Github Pages : https://freedom27lukhele.github.io/will-you-be-my-valentine/
 
